@@ -1,5 +1,5 @@
 body {
-	background-image: url("image/abstract_1.jpg");
+	background-image: url("abstract_1.jpg");
 	background-size: 100%;
 }
 
@@ -21,7 +21,7 @@ p {
 }
 .basic {
 	border: 1px solid green;
-	background-image: url("image/abstract_2.jpg");
+	background-image: url("abstract_2.jpg");
 	background-size: 100%;
 	width: 800px;
 	height: 290px;
